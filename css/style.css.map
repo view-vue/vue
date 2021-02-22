@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAP,oEAAO;AACP,OAAO,CAAP,mEAAO",
+    "sources": [
+        "../src/assets/css/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

@@ -1,0 +1,15 @@
+// ALL css 
+
+/* style css */
+// @import './sub/reset.css';
+// @import './sub/base.css';
+
+// this file import
+@import url(./sub/reset.css);
+@import url(./sub/base.css);
+@import url(./sub/common.css);
+@import url(./sub/layout.css);
+
+// App.vue
+// @import url(./assets/css/sub/base.css);
+// @import url(./assets/css/sub/reset.css);
